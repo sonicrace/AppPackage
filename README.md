@@ -11,7 +11,7 @@ Feel free to add your own python scripts (it has to be made by you) in the AppPa
 
 # License
 
-AppPackage | Database of Python Apps
+AppPackage | Package of Python Apps
 Copyright (C) 2017  Tristan Shawn Den Ouden
 
 This program is free software: you can redistribute it and/or modify
