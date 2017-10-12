@@ -23,3 +23,7 @@ if searchinput == "pysearch":
    import Pysearch
 elif searchinput == "edr":
    import EDR
+else:
+   print(searchinput, " is not a program. closing now")
+   time.sleep(0.4)
+   exit()
